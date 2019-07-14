@@ -1,0 +1,1 @@
+createObject("WScript.shell").run "regexrun.bat",vbhide
